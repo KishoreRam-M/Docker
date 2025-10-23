@@ -3,7 +3,6 @@
 ---
 
 ## 🖼 Big Picture
-
 Docker is like a **kitchen system** 🍴:
 
 * **Client** → You (place the order)
